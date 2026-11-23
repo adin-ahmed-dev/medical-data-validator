@@ -88,4 +88,6 @@ All patient data in this project is **fake sample data** used only for practice.
 
 ## Credits
 
-Based on the freeCodeCamp Python curriculum. Thanks to [freeCodeCamp](https://www.freecodecamp.org/adin-ahmed) for the free learning material.
+Based on the [freeCodeCamp](https://www.freecodecamp.org/learn/python-v9/) Python curriculum.
+
+Part of my learning journey on [freeCodeCamp](https://www.freecodecamp.org/adin-ahmed).
