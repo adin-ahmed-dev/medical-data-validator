@@ -34,7 +34,7 @@ If something is wrong, it prints a message with the record position and the prob
 ## How to run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/medical-data-validator.git
+git clone https://github.com/adin-ahmed-dev/medical-data-validator.git
 cd medical-data-validator
 python main.py
 ```
